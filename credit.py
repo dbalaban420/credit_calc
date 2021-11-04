@@ -1,4 +1,4 @@
-import creditcalc
+import calcs
 
 print("Кредитний калькулятор")
 while True:
